@@ -1,0 +1,33 @@
+{
+    "weather_key" : "922fa7db5e80194935a053d2bbab7354",
+    "ip_key" : "854633293d1654",
+    "weather_condition" : {
+        "01d" : "sunny",
+        "01n" : "sunny",
+        "02d" : "sunny",
+        "02n" : "sunny",
+        "03d" : "cloud",
+        "03n" : "cloud",
+        "04d" : "cloud",
+        "04n" : "cloud",
+        "09d" : "rain",
+        "09n" : "rain",
+        "010d" : "rain",
+        "010n" : "rain",
+        "011d" : "thunderstorm",
+        "011n" : "thunderstorm",
+        "013d" : "snow",
+        "013n" : "snow",
+        "050d" : "fog",
+        "050n" : "fog" 
+    },
+    
+    "weather_id" : {
+        "sunny" : 1,
+        "cloud" : 2,
+        "rain" : 3,
+        "thunderstorm" : 4,
+        "snow" : 5,
+        "fog" : 6 
+    }
+}
